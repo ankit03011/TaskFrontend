@@ -1,0 +1,13 @@
+/* src/components/Navbar.css */
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 64px; /* Adjust as needed */
+    background-color: white; /* Change to your desired color */
+    z-index: 1000; /* Keep it on top of other elements */
+  }
+  
+  /* Add any additional styles you want for your navbar here */
+  
